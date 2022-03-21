@@ -1,0 +1,6 @@
+{
+"configuration": [
+    { "application": 1, "template": "564fbbbecceabb76889","type_user":"CUSTOMER","priority":"high", "sender":"sender@bbva.com" },
+   { "application": 2, "template": "564fbbbecceabb728387272eaabdde34ee","type_user":"CUSTOMER","priority":"high", "sender":"sender@bbva.com" },
+  ],
+}
